@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeBook", "MemeBook\MemeBook.csproj", "{628B03C2-0B87-4D57-BF5B-7821280A438B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{628B03C2-0B87-4D57-BF5B-7821280A438B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628B03C2-0B87-4D57-BF5B-7821280A438B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628B03C2-0B87-4D57-BF5B-7821280A438B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628B03C2-0B87-4D57-BF5B-7821280A438B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86723C37-0103-4717-B0A2-84C5D759B144}
+	EndGlobalSection
+EndGlobal
